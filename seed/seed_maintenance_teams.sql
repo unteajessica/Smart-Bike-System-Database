@@ -1,6 +1,6 @@
 -- =====================================================
 -- Topic: Seed Data - Maintenance Teams
--- File: 02_seed/seed_maintenance_teams.sql
+-- File: seed/seed_maintenance_teams.sql
 -- =====================================================
 
 INSERT INTO MaintenanceTeam (TeamName, PhoneNumber)
