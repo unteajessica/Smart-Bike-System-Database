@@ -1,6 +1,6 @@
 -- =====================================================
 -- Topic: Queries - Aggregations (GROUP BY/HAVING)
--- File: 04_queries/04_groupby_having.sql
+-- File: queries/aggregations.sql
 -- =====================================================
 
 SELECT U.UserID, U.Email, COUNT(R.RentalID) AS TotalRentals
